@@ -1,6 +1,6 @@
 # Estatística Computacional 
 
-Ana Bárbara Andrade Mól
+Ana Bárbara Andrade Mól - UFSJ
 
 2022.1
 
