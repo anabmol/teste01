@@ -23,3 +23,8 @@ Ana Bárbara Andrade Mól - UFSJ
 - Link [GitHub](https://github.com/)
 
 ## Passos iniciais para configurar R, Rstudio e GitHub
+
+- Adicionamos localmente 
+- Comentamos 
+- Push 
+
